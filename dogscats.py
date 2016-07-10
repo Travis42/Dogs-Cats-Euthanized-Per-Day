@@ -13,10 +13,6 @@
 # Currently, more cats are killed than dogs.​
 
 
-# To Do:
-# Figure out how to get the correct ratio.
-# Get the correct count to print.
-
 from PIL import Image
 import os
 import random
